@@ -25,7 +25,8 @@ header,
 
 @media (max-width: 991px) {
     .navbar:not(.top-nav-collapse) {
-        background: #563e91 !important;
+        /*background: #563e91 !important;*/
+        background: #ffffff !important;
     }
 
     .navbar .nav-item {
@@ -46,7 +47,7 @@ header,
 }
 
 .rgba-gradient {
-    background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
-    background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
-    background: linear-gradient(to 45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: -moz-linear-gradient(45deg, rgb(255, 255, 255), rgb(255, 255, 255) 100%);
+    background: -webkit-linear-gradient(45deg, rgb(255, 255, 255), rgb(255, 255, 255) 100%);
+    background: linear-gradient(to 45deg, rgb(255, 255, 255), rgb(255, 255, 255) 100%);
 }
