@@ -28,6 +28,10 @@ header,
         background: #563e91 !important;
     }
 
+    .navbar .nav-item {
+        margin: auto;
+    }
+
     .view {
         height: 150vh;
     }
