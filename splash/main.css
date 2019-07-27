@@ -1,26 +1,15 @@
+html { overflow-y: hidden; }
+
 html,
-body,
-header,
-.view {
+body
+.view-content {
     height: 100%;
+    margin-top: 4vh;
 }
 
-.video {
-    width: 100%;
-}
 
 body {
     font-family: 'Montserrat', sans-serif !important;
-}
-
-@media (max-width: 740px) {
-
-    html,
-    body,
-    header,
-    .view {
-        height: 100vh;
-    }
 }
 
 .top-nav-collapse {
@@ -31,7 +20,19 @@ body {
     background: transparent !important;
 }
 
+@media (max-width: 740px) {
+    html { overflow-y: auto; }
+    
+    html,
+    body
+    .view-contact {
+        height: 100vh;
+    }
+}
+
 @media (max-width: 991px) {
+    html { overflow-y: auto; }
+
     .navbar:not(.top-nav-collapse) {
         /*background: #563e91 !important;*/
         background: #ffffff !important;
@@ -41,16 +42,17 @@ body {
         margin: auto;
     }
 
-    .view {
-        min-height: 170vh;
+    .view-content h3 {
+        font-size: 6.5vh;
     }
 
-    .view h3 {
-        font-size: 8vh;
+    .view-content h4 {
+        font-size: 2.5vh;
     }
 
-    .view h4 {
-        font-size: 3vh;
+    .view-content {
+        height: auto !important;
+        margin-top: 6vh;
     }
 
     iframe {
