@@ -1,8 +1,9 @@
-html { overflow-y: hidden; }
+html {
+    overflow-y: auto;
+}
 
 html,
-body
-.view-content {
+body .view-content {
     height: 100%;
     margin-top: 4vh;
 }
@@ -21,17 +22,20 @@ body {
 }
 
 @media (max-width: 740px) {
-    html { overflow-y: auto; }
-    
+    html {
+        overflow-y: auto;
+    }
+
     html,
-    body
-    .view-contact {
+    body .view-contact {
         height: 100vh;
     }
 }
 
 @media (max-width: 991px) {
-    html { overflow-y: auto; }
+    html {
+        overflow-y: auto;
+    }
 
     .navbar:not(.top-nav-collapse) {
         /*background: #563e91 !important;*/
