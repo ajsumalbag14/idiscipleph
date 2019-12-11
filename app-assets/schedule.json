@@ -1,0 +1,346 @@
+[{
+  "name": "Schedule",
+  "data": [{
+      "sched_id": "1",
+      "sched_date": "2019-05-21",
+      "sched_start_time": "9:00 AM",
+      "sched_end_time": "3:00 PM",
+      "sched_name": "Registration",
+      "sched_venue": "Patio",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "2",
+      "sched_date": "2019-05-21",
+      "sched_start_time": "3:00 PM",
+      "sched_end_time": "5:30 PM",
+      "sched_name": "Break",
+      "sched_venue": "Anywhere",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "3",
+      "sched_date": "2019-05-21",
+      "sched_start_time": "6:00 PM",
+      "sched_end_time": "7:00 PM",
+      "sched_name": "Dinner",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "4",
+      "sched_date": "2019-05-21",
+      "sched_start_time": "7:00 PM",
+      "sched_end_time": "9:00 PM",
+      "sched_name": "Plenary 1: Gospel Clarity (Romans 1:1-17)",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "5",
+      "sched_date": "2019-05-21",
+      "sched_start_time": "9:00 PM",
+      "sched_end_time": "10:00 PM",
+      "sched_name": "Late Registration",
+      "sched_venue": "Patio",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "6",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "6:30 AM",
+      "sched_end_time": "8:30 AM",
+      "sched_name": "Breakfast",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "7",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "8:30 AM",
+      "sched_end_time": "8:55 AM",
+      "sched_name": "GATHERING/FAMILY GROUP",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "8",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "9:00 AM",
+      "sched_end_time": "10:00 AM",
+      "sched_name": "Bible Exposition (Plenary Speakers)",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "9",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "10:00 AM",
+      "sched_end_time": "10:15 AM",
+      "sched_name": "Break",
+      "sched_venue": "Anywhere",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "10",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "10:15 AM",
+      "sched_end_time": "12:15 PM",
+      "sched_name": "Workshops",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "11",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "12:15 PM",
+      "sched_end_time": "1:00 PM",
+      "sched_name": "Lunch",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "12",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "1:00 PM",
+      "sched_end_time": "3:00 PM",
+      "sched_name": "Workshops",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "13",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "3:00 PM",
+      "sched_end_time": "5:30 PM",
+      "sched_name": "Ministry EXPO 101",
+      "sched_venue": "iDISCIPLE (Chapel A), Nehemiah (Gym), New Horizon (Chapel B)",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "14",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "5:30 PM",
+      "sched_end_time": "6:00 PM",
+      "sched_name": "Break",
+      "sched_venue": "Anywhere",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "15",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "6:00 PM",
+      "sched_end_time": "7:00 PM",
+      "sched_name": "Dinner",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "16",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "7:00 PM",
+      "sched_end_time": "9:00 PM",
+      "sched_name": "Plenary 2: Gospel Mission",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "17",
+      "sched_date": "2019-05-22",
+      "sched_start_time": "9:00 PM",
+      "sched_end_time": "10:00 PM",
+      "sched_name": "Family Group",
+      "sched_venue": "PBTS Open Ground",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "18",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "6:30 AM",
+      "sched_end_time": "8:30 AM",
+      "sched_name": "Breakfast",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "19",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "9:00 AM",
+      "sched_end_time": "10:00 AM",
+      "sched_name": "Bible Exposition (Plenary Speakers)",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "20",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "10:00 AM",
+      "sched_end_time": "10:15 AM",
+      "sched_name": "Break",
+      "sched_venue": "Anywhere",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "21",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "10:15 AM",
+      "sched_end_time": "12:15 PM",
+      "sched_name": "Workshops",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "22",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "12:15 PM",
+      "sched_end_time": "1:00 PM",
+      "sched_name": "Lunch",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "23",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "1:00 PM",
+      "sched_end_time": "3:00 PM",
+      "sched_name": "Workshops",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "24",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "3:00 PM",
+      "sched_end_time": "5:30 PM",
+      "sched_name": "Ministry EXPO 101",
+      "sched_venue": "iDISCIPLE (Chapel A), Nehemiah (Gym), New Horizon (Chapel B)",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "25",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "5:30 PM",
+      "sched_end_time": "6:00 PM",
+      "sched_name": "Break",
+      "sched_venue": "Anywhere",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "26",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "6:00 PM",
+      "sched_end_time": "6:15 PM",
+      "sched_name": "GATHERING/FAMILY GROUP",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "27",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "6:15 PM",
+      "sched_end_time": "7:00 PM",
+      "sched_name": "Dinner",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "28",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "7:00 PM",
+      "sched_end_time": "9:00 PM",
+      "sched_name": "Plenary 3: Gospel Commission - Multiply Disciples",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "29",
+      "sched_date": "2019-05-23",
+      "sched_start_time": "9:00 PM",
+      "sched_end_time": "10:00 PM",
+      "sched_name": "Family Group",
+      "sched_venue": "PBTS Open Ground",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "30",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "6:30 AM",
+      "sched_end_time": "8:30 AM",
+      "sched_name": "Breakfast",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "31",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "8:30 AM",
+      "sched_end_time": "8:40 AM",
+      "sched_name": "GATHERING/FAMILY GROUP",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "32",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "9:00 AM",
+      "sched_end_time": "10:00 AM",
+      "sched_name": "Bible Exposition (Plenary Speakers)",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "33",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "10:00 AM",
+      "sched_end_time": "12:15 PM",
+      "sched_name": "Cultural Presentations",
+      "sched_venue": "Designated Stations",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "34",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "12:15 PM",
+      "sched_end_time": "1:00 PM",
+      "sched_name": "Lunch",
+      "sched_venue": "PBTS Canteen",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "35",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "1:00 PM",
+      "sched_end_time": "5:30 PM",
+      "sched_name": "Baguio City Tour",
+      "sched_venue": "Baguio City",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "36",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "6:00 PM",
+      "sched_end_time": "7:00 PM",
+      "sched_name": "Banquet (Hosted by LCSBC)",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "37",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "7:00 PM",
+      "sched_end_time": "9:00 PM",
+      "sched_name": "Plenary 4: Gospel Power",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    },
+    {
+      "sched_id": "38",
+      "sched_date": "2019-05-24",
+      "sched_start_time": "9:00 PM",
+      "sched_end_time": "10:00 PM",
+      "sched_name": "Youth Stage",
+      "sched_venue": "PBTS Gym",
+      "workshop_id": 0
+    }
+  ]
+}]

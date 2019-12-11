@@ -1,0 +1,204 @@
+﻿[{
+	"name": "Workshop",
+	"data": [{
+			"workshop_id": 1,
+			"workshop_name": "1a) Gospel Shaped Worship",
+			"description": "A workshop on the Gospel of Jesus Christ at the center of your worship. If you are handling worship or music ministry in your local church, these learning sessions will be of great help to you and your ministry.",
+			"outline": "",
+			"speaker_id": 7,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		},
+		{
+			"workshop_id": 2,
+			"workshop_name": "2a) Writing God-Centered Songs for the Local Church",
+			"description": "If you are looking to start writing your own songs for your local church music ministry, this workshop can help you get started in that direction. These sessions will help you make sure that God is at the center of the lyrics of the songs you write and use for the church.",
+			"outline": "",
+			"speaker_id": 8,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 21,
+			"workshop_name": "3a) Internet/Media Evangelism",
+			"description": "In a world where the internet is ubiquitous and social media is prevalent, how do you exist in such an environment and still preach the Gospel? Be encouraged to use technology towards the preaching and sharing of the Gospel through this workshop.",
+			"outline": "",
+			"speaker_id": 23,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 24,
+			"workshop_name": "4a) The Gospel at Work: Art and Media for Social Change",
+			"description": "How do you use media and the arts for social change? If you are an artist, or if there are artists in your church, this workshop might help you gain direction on how to use your God-given talents to serve others and bring about hope for other people. ",
+			"outline": "",
+			"speaker_id": 26,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 18,
+			"workshop_name": "5a) Using Dance For Ministry",
+			"description": "Does your youth ministry have dancers? Do you have youth who are interested in dance? Learn how you can incorporate dance into your youth ministry through these sessions.",
+			"outline": "",
+			"speaker_id": 20,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 6,
+			"workshop_name": "6b) Love, Life & Relationships",
+			"description": "Is God interested in my relationships? If He is, then how should I carry myself in my relationships and decision-making? Learn from these sessions on how God is embedded in the way we interact and relate with others.",
+			"outline": "",
+			"speaker_id": 12,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 9,
+			"workshop_name": "8b) Be Fruitful and Multiply",
+			"description": "...",
+			"outline": "",
+			"speaker_id": 15,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 17,
+			"workshop_name": "9b) The Gospel is for Everybody",
+			"description": "The Gospel is at the center of the church and Christianity. How do we encourage the youth to know the Gospel and to preach it to everyone around them? Know the importance of the Gospel in these sessions.",
+			"outline": "",
+			"speaker_id": 19,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 20,
+			"workshop_name": "10b) Sharing Christ in the Marketplace",
+			"description": "Are you employed or working in a corporate setting? How do you share your faith with the people you work with? It’s difficult work, but be encouraged through these sessions how you can make your faith shine in your workplace.",
+			"outline": "",
+			"speaker_id": 22,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 3,
+			"workshop_name": "11a) The Power of the Congregation through the Music and Words",
+			"description": "How do you teach theology through music? You want to make sure that the words you use are theologically sound and will help your congregation put to memory the truth about God.",
+			"outline": "",
+			"speaker_id": 9,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 4,
+			"workshop_name": "12a) Reaching and Discipling Millennials",
+			"description": "Millennials are one of the biggest age groups in our churches. How do we reach them for Christ and the Gospel? How do we make sure that we communicate to them what church is really about? Let these sessions help you in your ministry as you reach out to this specific generation.",
+			"outline": "",
+			"speaker_id": 10,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 5,
+			"workshop_name": "13a) Campus Ministry – Reaching, Training & Discipling Students",
+			"description": "If you have a ministry that specifically reaches out to campuses and universities, learn from these sessions what is foundational for your campus ministry work. Make sure that you are grounded on the Gospel and will do the work for Christ and his renown.",
+			"outline": "",
+			"speaker_id": 11,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 10,
+			"workshop_name": "14a) Reason for God: Preparing the Youth for Post-Truth Culture",
+			"description": "In an emerging culture of fake news and post-truth, how can Christians stand up for the truth of God’s Word? How do we incorporate a gracious apologetic in our lives that show the fullness of Christ in our Christianity? Learn from these sessions how to do this in your life.",
+			"outline": "",
+			"speaker_id": 5,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 25,
+			"workshop_name": "15a) Ministering to the Marginalized",
+			"description": "In the Asian region, there are a lot of marginalized people -- the poor, the victims of injustice, the uneducated. How do we bring the Gospel to them to bring them hope? How do we involve the church and the youth to help these marginalized people? Be encouraged and guided by this workshop.",
+			"outline": "",
+			"speaker_id": 27,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 11,
+			"workshop_name": "16a) Servanthood Leadership",
+			"description": "How do we serve as Jesus served? How do we lead people without lording it over them? Learn from these sessions how servanthood is embedded in the biblical way of leadership.",
+			"outline": "",
+			"speaker_id": 3,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 16,
+			"workshop_name": "17a) Preparing Emerging Leaders",
+			"description": "If your church has emerging leaders, make sure that you are ready to equip them to lead in the next seasons of their lives. Be equipped yourself, so that you can prepare your young leaders for the hard work of leading church and ministries.",
+			"outline": "",
+			"speaker_id": 2,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 8,
+			"workshop_name": "18b) Fight Clubs: Creating Gospel-Centered Communities in the Church",
+			"description": "Disciple-making is the bedrock of any ministry with the youth. It is important that youth ministers will learn how to engage the youth in discipleship, and make sure that our discipleship strategies all point to Christ. Fight Clubs is a way to disciple your youth and point them towards Christ.",
+			"outline": "",
+			"speaker_id": 14,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 12,
+			"workshop_name": "19b) Christ-Centered Preaching & Teaching",
+			"description": "If your ministry is leaning towards preaching and biblical exposition, learn and be encouraged from these sessions. Look into God’s Word and see how you can declare the truth of God through preaching to the people you minister to.",
+			"outline": "",
+			"speaker_id": 1,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 14,
+			"workshop_name": "21b) Training Disciplemakers",
+			"description": "If your ministry has disciple-making at the center, then you will need to train people to know how to make disciples and train other leaders to pass on the culture to the generations after them. Be encouraged and learn from these sessions on how to do this in your churches and ministries.",
+			"outline": "",
+			"speaker_id": 17,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 15,
+			"workshop_name": "22b) Missional Leadership",
+			"description": "...",
+			"outline": "",
+			"speaker_id": 28,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 22,
+			"workshop_name": "23b) T4T Discipleship to Church Planting",
+			"description": "Training for Trainers (T4T) will teach you to bring your church members from discipleship to church planting. Learn how to involve your youth and your church in evangelizing and planting churches through this workshop.",
+			"outline": "",
+			"speaker_id": 24,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}, {
+			"workshop_id": 23,
+			"workshop_name": "24b) Sex Trafficking: Rescuing Teenagers",
+			"description": "Be informed and become aware of the huge peril brought to the youth by sex trafficking, which is prevalent in the Asian region. Learn how you and your youth ministry can help possible victims and stop this crime from spreading.",
+			"outline": "",
+			"speaker_id": 25,
+			"workshop_schedule_date": "2019-05-22",
+			"workshop_schedule_time": "2:30PM to 4:00PM",
+			"location": "PBTS"
+		}
+	]
+}]

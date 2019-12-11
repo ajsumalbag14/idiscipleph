@@ -1,0 +1,79 @@
+[{
+  "data": [{
+      "resource_id": 11,
+      "type": "file",
+      "title": "*Activity No.8: May 24 - Morning",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may24-morning.pdf"
+    }, {
+      "resource_id": 10,
+      "type": "file",
+      "title": "Activity No.7: May 23 - Evening",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may23-evening.pdf"
+    },
+    {
+      "resource_id": 9,
+      "type": "file",
+      "title": "Activity No.6: May 23 - Lunch",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may23-lunch.pdf"
+    },
+    {
+      "resource_id": 8,
+      "type": "file",
+      "title": "Activity No.5: May 23 - Morning",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may23-morning.pdf"
+    },
+    {
+      "resource_id": 7,
+      "type": "file",
+      "title": "Activity No.4: May 22 - Evening",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may22-evening.pdf"
+    },
+    {
+      "resource_id": 6,
+      "type": "file",
+      "title": "Activity No.3: May 22 - Lunch",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may22-lunch.pdf"
+    },
+    {
+      "resource_id": 5,
+      "type": "file",
+      "title": "Activity No.2: May 22 - Morning",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may22-morning.pdf"
+    },
+    {
+      "resource_id": 4,
+      "type": "file",
+      "title": "Baguio City Tour",
+      "description": "Baguio City Tour ITINERARY",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/may24-baguio-tour.pdf"
+    },
+    {
+      "resource_id": 3,
+      "type": "file",
+      "title": "Activity No.1: May 21 - Evening",
+      "description": "Family Group Activity / Questions",
+      "url": "https://idisciple.ph/2019/apbycon/assets/pdf/fg-activity-may21-evening.pdf"
+    },
+    {
+      "resource_id": 2,
+      "type": "video",
+      "title": "THEME SONG Lyric Video",
+      "description": "We Will Go",
+      "url": "https://www.youtube.com/embed/bJCavoM4iH8"
+    },
+    {
+      "resource_id": 1,
+      "type": "video",
+      "title": "Conference AVP",
+      "description": "Watch Conference AVP",
+      "url": "https://www.youtube.com/embed/UKHAfFqA-Wo"
+    }
+  ]
+}]
