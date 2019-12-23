@@ -2,246 +2,121 @@
 	"name": "Family Groups",
 	"data": [{
 			"fg_id": "1",
-			"fg_name": "Family Group #1",
+			"fg_name": "Community Group #1",
 			"fg_lead_id": "308"
 		},
 		{
 			"fg_id": "2",
-			"fg_name": "Family Group #2",
+			"fg_name": "Community Group #2",
 			"fg_lead_id": "188"
 		},
 		{
 			"fg_id": "3",
-			"fg_name": "Family Group #3",
+			"fg_name": "Community Group #3",
 			"fg_lead_id": "56"
 		}, {
 			"fg_id": "4",
-			"fg_name": "Family Group #4",
+			"fg_name": "Community Group #4",
 			"fg_lead_id": "532"
 		}, {
 			"fg_id": "5",
-			"fg_name": "Family Group #5",
+			"fg_name": "Community Group #5",
 			"fg_lead_id": "292"
 		}, {
 			"fg_id": "6",
-			"fg_name": "Family Group #6",
+			"fg_name": "Community Group #6",
 			"fg_lead_id": "360"
 		}, {
 			"fg_id": "7",
-			"fg_name": "Family Group #7",
+			"fg_name": "Community Group #7",
 			"fg_lead_id": "647"
 		}, {
 			"fg_id": "8",
-			"fg_name": "Family Group #8",
+			"fg_name": "Community Group #8",
 			"fg_lead_id": "533"
 		}, {
 			"fg_id": "9",
-			"fg_name": "Family Group #9",
+			"fg_name": "Community Group #9",
 			"fg_lead_id": "345"
 		}, {
 			"fg_id": "10",
-			"fg_name": "Family Group #10",
+			"fg_name": "Community Group #10",
 			"fg_lead_id": "581"
 		},
 		{
 			"fg_id": "11",
-			"fg_name": "Family Group #11",
+			"fg_name": "Community Group #11",
 			"fg_lead_id": "352"
 		},
 		{
 			"fg_id": "12",
-			"fg_name": "Family Group #12",
+			"fg_name": "Community Group #12",
 			"fg_lead_id": "240"
 		},
 		{
 			"fg_id": "13",
-			"fg_name": "Family Group #13",
+			"fg_name": "Community Group #13",
 			"fg_lead_id": "459"
 		},
 		{
 			"fg_id": "14",
-			"fg_name": "Family Group #14",
+			"fg_name": "Community Group #14",
 			"fg_lead_id": "74"
 		},
 		{
 			"fg_id": "15",
-			"fg_name": "Family Group #15",
+			"fg_name": "Community Group #15",
 			"fg_lead_id": "545"
 		},
 		{
 			"fg_id": "16",
-			"fg_name": "Family Group #16",
+			"fg_name": "Community Group #16",
 			"fg_lead_id": "453"
 		},
 		{
 			"fg_id": "17",
-			"fg_name": "Family Group #17",
+			"fg_name": "Community Group #17",
 			"fg_lead_id": "307"
 		},
 		{
 			"fg_id": "18",
-			"fg_name": "Family Group #18",
+			"fg_name": "Community Group #18",
 			"fg_lead_id": "346"
 		},
 		{
 			"fg_id": "19",
-			"fg_name": "Family Group #19",
+			"fg_name": "Community Group #19",
 			"fg_lead_id": "342"
 		},
 		{
 			"fg_id": "20",
-			"fg_name": "Family Group #20",
+			"fg_name": "Community Group #20",
 			"fg_lead_id": "338"
 		},
 		{
 			"fg_id": "21",
-			"fg_name": "Family Group #21",
+			"fg_name": "Community Group #21",
 			"fg_lead_id": "479"
 		},
 		{
 			"fg_id": "22",
-			"fg_name": "Family Group #22",
+			"fg_name": "Community Group #22",
 			"fg_lead_id": "457"
 		},
 		{
 			"fg_id": "23",
-			"fg_name": "Family Group #23",
+			"fg_name": "Community Group #23",
 			"fg_lead_id": "485"
 		},
 		{
 			"fg_id": "24",
-			"fg_name": "Family Group #24",
+			"fg_name": "Community Group #24",
 			"fg_lead_id": "443"
 		},
 		{
 			"fg_id": "25",
-			"fg_name": "Family Group #25",
+			"fg_name": "Community Group #25",
 			"fg_lead_id": "546"
-		},
-		{
-			"fg_id": "26",
-			"fg_name": "Family Group #26",
-			"fg_lead_id": "319"
-		},
-		{
-			"fg_id": "27",
-			"fg_name": "Family Group #27",
-			"fg_lead_id": "511"
-		},
-		{
-			"fg_id": "28",
-			"fg_name": "Family Group #28",
-			"fg_lead_id": "466"
-		},
-		{
-			"fg_id": "29",
-			"fg_name": "Family Group #29",
-			"fg_lead_id": "436"
-		},
-		{
-			"fg_id": "30",
-			"fg_name": "Family Group #30",
-			"fg_lead_id": "113"
-		},
-		{
-			"fg_id": "31",
-			"fg_name": "Family Group #31",
-			"fg_lead_id": "438"
-		},
-		{
-			"fg_id": "32",
-			"fg_name": "Family Group #32",
-			"fg_lead_id": "273"
-		},
-		{
-			"fg_id": "33",
-			"fg_name": "Family Group #33",
-			"fg_lead_id": "596"
-		},
-		{
-			"fg_id": "34",
-			"fg_name": "Family Group #34",
-			"fg_lead_id": "44"
-		},
-		{
-			"fg_id": "35",
-			"fg_name": "Family Group #35",
-			"fg_lead_id": "448"
-		},
-		{
-			"fg_id": "36",
-			"fg_name": "Family Group #36",
-			"fg_lead_id": "451"
-		},
-		{
-			"fg_id": "37",
-			"fg_name": "Family Group #37",
-			"fg_lead_id": "315"
-		},
-		{
-			"fg_id": "38",
-			"fg_name": "Family Group #38",
-			"fg_lead_id": "607"
-		},
-		{
-			"fg_id": "39",
-			"fg_name": "Family Group #39",
-			"fg_lead_id": "210"
-		},
-		{
-			"fg_id": "40",
-			"fg_name": "Family Group #40",
-			"fg_lead_id": "85"
-		},
-		{
-			"fg_id": "41",
-			"fg_name": "Family Group #41",
-			"fg_lead_id": "86"
-		},
-		{
-			"fg_id": "42",
-			"fg_name": "Family Group #42",
-			"fg_lead_id": "362"
-		},
-		{
-			"fg_id": "43",
-			"fg_name": "Family Group #43",
-			"fg_lead_id": "53"
-		},
-		{
-			"fg_id": "44",
-			"fg_name": "Family Group #44",
-			"fg_lead_id": "620"
-		},
-		{
-			"fg_id": "45",
-			"fg_name": "Family Group #45",
-			"fg_lead_id": "156"
-		},
-		{
-			"fg_id": "46",
-			"fg_name": "Family Group #46",
-			"fg_lead_id": "56"
-		},
-		{
-			"fg_id": "47",
-			"fg_name": "Family Group #47",
-			"fg_lead_id": "57"
-		},
-		{
-			"fg_id": "48",
-			"fg_name": "Family Group #48",
-			"fg_lead_id": "58"
-		},
-		{
-			"fg_id": "49",
-			"fg_name": "Family Group #49",
-			"fg_lead_id": "59"
-		},
-		{
-			"fg_id": "50",
-			"fg_name": "Family Group #50",
-			"fg_lead_id": "60"
 		}
 	]
 }]
