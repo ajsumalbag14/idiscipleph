@@ -86,7 +86,7 @@
       "sched_date": "2019-12-27",
       "sched_start_time": "10:15 AM",
       "sched_end_time": "11:15 AM",
-      "sched_name": "Plenary 3: An Unshamed Workman",
+      "sched_name": "Plenary 3: An Unashamed Workman",
       "sched_venue": "Gymnasium",
       "workshop_id": 0
     },
@@ -113,7 +113,7 @@
       "sched_date": "2019-12-27",
       "sched_start_time": "2:00 PM",
       "sched_end_time": "4:00 PM",
-      "sched_name": "Breakouts/Workshops",
+      "sched_name": "Breakouts / Workshops",
       "sched_venue": "Designated Venues",
       "workshop_id": 0
     },
@@ -221,7 +221,7 @@
       "sched_date": "2019-12-28",
       "sched_start_time": "2:00 PM",
       "sched_end_time": "4:00 PM",
-      "sched_name": "Breakouts/Workshops",
+      "sched_name": "Breakouts / Workshops",
       "sched_venue": "Designated Venues",
       "workshop_id": 0
     },
