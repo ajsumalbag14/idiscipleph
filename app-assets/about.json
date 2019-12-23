@@ -1,13 +1,16 @@
-[{
-    "data": [{
-            "about_id": 1,
-            "title": "About APBY Conference",
-            "content": "The APBY Conference is a gathering of Baptist youth in the Asia Pacific region that happens every 4 years. Under the Asia Pacific Baptist Federation, the conference includes youth of Baptist congregations from over 20 countries, uniting them in Christ and the global church."
-        },
-        {
-            "about_id": 2,
-            "title": "About iDISCIPLE Philippines",
-            "content": "iDISCIPLE Philippines is a ministry that exists to bring glory to God by making gospel-centered disciples of all nations, starting with the local churches in the Philippines. We do this through conferences and training courses for the youth, young adults, pastors, and ministry workers."
-        }
+[
+  {
+    "data": [
+      {
+        "about_id": 1,
+        "title": "iDISCIPLE Philippines",
+        "content": "iDISCIPLE Philippines is a ministry that exists to bring glory to God by making gospel-centered disciples of all nations, starting with the local churches in the Philippines. We do this through conferences and training courses for the youth, young adults, pastors, and ministry workers."
+      },
+      {
+        "about_id": 2,
+        "title": "What We Do",
+        "content": "iDISCIPLE Philippines is a ministry that exists to bring glory to God by making gospel-centered disciples of all nations, starting with the local churches in the Philippines. We do this through conferences and training courses for the youth, young adults, pastors, and ministry workers."
+      }
     ]
-}]
+  }
+]
